@@ -149,8 +149,8 @@ def generate_prompts():
         template=
         """        
         **Task**: Craft a 100-character DALL-E prompt.
-        **Prompt**: Write the prompt for a masterpiece drawing displaying {linkedin}.
-        **Style**: simple and elegant drawing, best quality, official art, accurate proportions and minimal clutter, no text, no watermark, no signature, no names.
+        **Prompt**: Write the prompt for a photorealistic high quality image displaying {linkedin}.
+        **Style**: simple and elegant photorealistic image, best quality, official art, accurate proportions and minimal clutter, no text, no watermark, no signature, no names.
         **Note**: Always consider the "Style" in the 100-character DALL-E prompt
         """
 
